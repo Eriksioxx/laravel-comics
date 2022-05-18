@@ -1,5 +1,4 @@
 <?php
-
 return [
     'characters' => 'Characters',
     'comics' => 'Comics',
@@ -10,6 +9,5 @@ return [
     'fans' => 'Fans',
     'news' => 'News',
     'shop' => 'Shop',
-
 ];
 ?>
